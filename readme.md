@@ -1,0 +1,2 @@
+# 50 projects in 50 days using HTML5, CSS3, and JavaScript
+I have created these projects with the aim to practice HTML5 & CSS3, and learn JavaScript. I followed [this](https://www.udemy.com/course/50-projects-50-days/) course on _Udemy_.
