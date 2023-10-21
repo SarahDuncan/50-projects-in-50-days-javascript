@@ -14,3 +14,10 @@ I have created these projects with the aim to practice HTML5 & CSS3, and learn J
 |6|[Scroll animation](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Scroll%20animation%20(day%206))|
 |7|[Split landing page](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Split%20landing%20page%20(day%207))|
 |8|Form wave animation|
+|9|Sound board|
+|10|Dad jokes|
+|11|Event keycodes|
+|12|FAQ collapse|
+|13|Random choice picker|
+|14|Animated navigation|
+|15|Incrementing counter|
