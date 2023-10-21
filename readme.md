@@ -13,7 +13,7 @@ I have created these projects with the aim to practice HTML5 & CSS3, and learn J
 |5|[Blurry loading](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Blurry%20loading%20(day%205))|
 |6|[Scroll animation](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Scroll%20animation%20(day%206))|
 |7|[Split landing page](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Split%20landing%20page%20(day%207))|
-|8|Form wave animation|
+|8|[Form wave animation](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Form%20wave%20(day%208))|
 |9|Sound board|
 |10|Dad jokes|
 |11|Event keycodes|
