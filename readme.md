@@ -14,7 +14,7 @@ I have created these projects with the aim to practice HTML5 & CSS3, and learn J
 |6|[Scroll animation](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Scroll%20animation%20(day%206))|
 |7|[Split landing page](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Split%20landing%20page%20(day%207))|
 |8|[Form wave animation](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Form%20wave%20(day%208))|
-|9|Sound board|
+|9|[Sound board](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Sound%20board%20(day%209))|
 |10|Dad jokes|
 |11|Event keycodes|
 |12|FAQ collapse|
