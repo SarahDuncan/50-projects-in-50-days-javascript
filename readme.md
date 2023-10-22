@@ -5,7 +5,7 @@ I have created these projects with the aim to practice HTML5 & CSS3, and learn J
 ## The projects in order
 
 |Day|Project title|Any extra information|
-|---|-------------|
+|---|-------------|---------------------|
 |1|[Expanding cards](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Expanding%20cards%20(day%201))|
 |2|[Progress steps](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Progress%20steps%20(day%202))|
 |3|[Rotating navigation](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Rotating%20navigation%20(day%203))|
