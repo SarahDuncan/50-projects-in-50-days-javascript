@@ -21,3 +21,13 @@ I have created these projects with the aim to practice HTML5 & CSS3, and learn J
 |13|Random choice picker|
 |14|Animated navigation|
 |15|Incrementing counter|
+|16|Drink water|
+|17|Movie app|
+|18|Background slider|
+|19|Theme clock|
+|20|Button ripple effect|
+|21|Drag n drop|
+|22|Drawing app|
+|23|Kinetic loader|
+|24|Content placeholder|
+|25|Sticky navbar|
