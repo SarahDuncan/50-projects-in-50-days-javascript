@@ -2,6 +2,10 @@
 # 50 projects in 50 days using HTML5, CSS3, and JavaScript
 I have created these projects with the aim to practice HTML5 & CSS3, and learn JavaScript. I followed [this](https://www.udemy.com/course/50-projects-50-days/) course on _Udemy_.
 
+## Course link and website showing the live demo of each project
+ * The course can be found here: https://www.udemy.com/course/50-projects-50-days/
+ * The website including live demos of each mini-project can be found here: https://50projects50days.com/ 
+
 ## The projects in order
 
 |Day|Project title|Any extra information|
@@ -31,3 +35,28 @@ I have created these projects with the aim to practice HTML5 & CSS3, and learn J
 |23|Kinetic loader|
 |24|Content placeholder|
 |25|Sticky navbar|
+|26|Double vertical slider|
+|27|Toast notification|
+|28|GitHub profiles|
+|29|Double click heart|
+|30|Auto text effect|
+|31|Password generator|
+|32|Good cheap fast|
+|33|Notes app|
+|34|Animated countdown|
+|35|Image carousel|
+|36|Hoverboard|
+|37|Pokedex|
+|38|Mobile tag navigation|
+|39|Password strength background|
+|40|3D background boxes|
+|41|Verify account UI|
+|42|Live user filter|
+|43|Feedback UI design|
+|44|Custom range slider|
+|45|Netflix mobile navigation|
+|46|Quiz app|
+|47|Testimonial box switcher|
+|48|Random image feed|
+|49|Todo list|
+|50|Insect catch game|
