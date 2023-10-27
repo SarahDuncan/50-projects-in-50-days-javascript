@@ -1,12 +1,12 @@
 
-# 50 projects in 50 days using HTML5, CSS3, and JavaScript
-I have created these projects with the aim to practice HTML5 & CSS3, and learn JavaScript. I followed [this](https://www.udemy.com/course/50-projects-50-days/) course on _Udemy_.
+# 50 projects in 50 days
+I have created these projects with the aim to practice **HTML5 & CSS3, and learn JavaScript**. I followed [this](https://www.udemy.com/course/50-projects-50-days/) course on _Udemy_.
 
 ## Course link and website showing the live demo of each project
  * The course can be found here: https://www.udemy.com/course/50-projects-50-days/
- * The website including live demos of each mini-project can be found here: https://50projects50days.com/ 
+ * The website, including live demos of each mini-project, can be found here: https://50projects50days.com/ 
 
-## The projects in order
+## The projects in order of completion
 
 |Day|Project title|Any extra information|
 |---|-------------|---------------------|
