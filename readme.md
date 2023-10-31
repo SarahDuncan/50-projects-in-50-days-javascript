@@ -25,7 +25,7 @@ I have created these projects with the aim to practice **HTML5 & CSS3, and learn
 |13|[Random choice picker](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Random%20Choice%20Picker%20(day%2013))|
 |14|[Animated navigation](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Animated%20navigation%20(day%2014))|
 |15|[Incrementing counter](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Incrementing%20counter%20(day%2015))|
-|16|Drink water|
+|16|[Drink water](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Drink%20water%20(day%2016))|
 |17|Movie app|
 |18|Background slider|
 |19|Theme clock|
