@@ -26,7 +26,7 @@ I have created these projects with the aim to practice **HTML5 & CSS3, and learn
 |14|[Animated navigation](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Animated%20navigation%20(day%2014))|
 |15|[Incrementing counter](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Incrementing%20counter%20(day%2015))|
 |16|[Drink water](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Drink%20water%20(day%2016))|
-|17|[Movie app](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Movie%20app%20(day%2017))|
+|17|[Movie app](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Movie%20app%20(day%2017))|This project involves an asynchronous API call.|
 |18|[Background slider](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Background%20slider%20(day%2018))|
 |19|Theme clock|
 |20|Button ripple effect|
