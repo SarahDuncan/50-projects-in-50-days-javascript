@@ -29,7 +29,7 @@ I have created these projects with the aim to practice **HTML5 & CSS3, and learn
 |17|[Movie app](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Movie%20app%20(day%2017))|This project involves an asynchronous API call.|
 |18|[Background slider](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Background%20slider%20(day%2018))|
 |19|[Theme clock](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Theme%20clock%20(day%2019))|
-|20|Button ripple effect|
+|20|[Button ripple effect](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Button%20ripple%20effect%20(day%2020))|
 |21|Drag n drop|
 |22|Drawing app|
 |23|Kinetic loader|
