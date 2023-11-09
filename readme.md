@@ -31,7 +31,7 @@ I have created these projects with the aim to practice **HTML5 & CSS3, and learn
 |19|[Theme clock](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Theme%20clock%20(day%2019))|
 |20|[Button ripple effect](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Button%20ripple%20effect%20(day%2020))|
 |21|[Drag n drop](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Drag%20and%20drop%20(day%2021))|
-|22|Drawing app|
+|22|[Drawing app](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Drawing%20app%20(day%2022))|
 |23|Kinetic loader|
 |24|Content placeholder|
 |25|Sticky navbar|
