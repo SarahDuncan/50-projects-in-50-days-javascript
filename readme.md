@@ -33,7 +33,7 @@ I have created these projects with the aim to practice **HTML5 & CSS3, and learn
 |21|[Drag n drop](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Drag%20and%20drop%20(day%2021))|
 |22|[Drawing app](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Drawing%20app%20(day%2022))|Uses the canvas API to draw on a canvas element.|
 |23|[Kinetic loader](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Kinetic%20loader%20(day%2023))|
-|24|Content placeholder|
+|24|[Content placeholder](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Content%20placeholder%20(day%2024))|
 |25|Sticky navbar|
 |26|Double vertical slider|
 |27|Toast notification|
