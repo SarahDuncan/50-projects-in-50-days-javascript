@@ -37,7 +37,7 @@ I have created these projects with the aim to practice **HTML5 & CSS3, and learn
 |25|[Sticky navbar](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Sticky%20navbar%20(day%2025))|Navigation bar changes as the user scrolls, making this project a good example for scrolling animations in new projects.|
 |26|[Double vertical slider](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Double%20vertical%20slider%20(day%2026))|
 |27|[Toast notification](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Toast%20notification%20(day%2028))|
-|28|GitHub profiles|
+|28|[GitHub profiles](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/GitHub%20profiles%20(day%2028))|This project uses **axios**, with the GitHub **public APIs**, and includes **error handling** too. Loved this one!| 
 |29|Double click heart|
 |30|Auto text effect|
 |31|Password generator|
