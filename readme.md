@@ -40,7 +40,7 @@ I have created these projects with the aim to practice **HTML5 & CSS3, and learn
 |28|[GitHub profiles](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/GitHub%20profiles%20(day%2028))|This project uses **axios**, with the GitHub **public APIs**, and includes **error handling** too. Loved this one!| 
 |29|[Double click heart](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Double%20click%20heart%20(day%2029))|
 |30|[Auto text effect](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Auto%20text%20effect%20(day%2030))|
-|31|Password generator|
+|31|[Password generator](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Password%20generator%20(day%2031))|
 |32|Good cheap fast|
 |33|Notes app|
 |34|Animated countdown|
