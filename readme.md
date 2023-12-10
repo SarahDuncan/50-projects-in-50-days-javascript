@@ -45,7 +45,7 @@ I have created these projects with the aim to practice **HTML5 & CSS3, and learn
 |33|[Notes app](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Notes%20app%20(day%2033))| CRUD app using local storage!|
 |34|[Animated countdown](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Animated%20countdown%20(day%2034))|
 |35|[Image carousel](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Image%20carousel%20(day%2035))|
-|36|Hoverboard|
+|36|[Hoverboard](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Hoverboard%20(day%2036))|
 |37|Pokedex|
 |38|Mobile tag navigation|
 |39|Password strength background|
