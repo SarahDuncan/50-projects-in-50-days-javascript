@@ -48,7 +48,7 @@ I have created these projects with the aim to practice **HTML5 & CSS3, and learn
 |36|[Hoverboard](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Hoverboard%20(day%2036))|
 |37|[Pokedex](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Pokedex%20(day%2038))|
 |38|[Mobile tab navigation](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Mobile%20Tab%20Navigation%20(day%2038))|
-|39|Password strength background|
+|39|[Password strength background](https://github.com/SarahDuncan/50-projects-in-50-days-javascript/tree/main/Password%20strength%20(day%2039))| Uses some Tailwind CSS. |
 |40|3D background boxes|
 |41|Verify account UI|
 |42|Live user filter|
