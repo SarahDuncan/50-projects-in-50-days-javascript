@@ -49,7 +49,7 @@ I have created these projects with the aim to practice **HTML5 & CSS3, and learn
 |37|[Pokedex](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Pokedex%20(day%2038))|
 |38|[Mobile tab navigation](https://github.com/SarahDuncan/50-projects-50-days-js/tree/main/Mobile%20Tab%20Navigation%20(day%2038))|
 |39|[Password strength background](https://github.com/SarahDuncan/50-projects-in-50-days-javascript/tree/main/Password%20strength%20(day%2039))| Uses some Tailwind CSS. |
-|40|3D background boxes|
+|40|[3D background boxes](https://github.com/SarahDuncan/50-projects-in-50-days-javascript/tree/main/3D%20background%20box%20(day%2040))|
 |41|Verify account UI|
 |42|Live user filter|
 |43|Feedback UI design|
